@@ -1,0 +1,9 @@
+cv__max_features,cv__ngram_range,cv__stop_words,lr__C,lr__penalty,score,train_score,test_score,lr__solver
+500.0,"(1, 2)",english,1.0,l2,0.5250015067541894,0.6116,0.5236,saga
+700.0,"(1, 2)",english,1.0,l1,0.5342279522555455,0.6399,0.5402,saga
+800.0,"(1, 2)",english,,l1,0.5390829762981015,0.6467,0.5459,liblinear
+900.0,"(1, 2)",english,,l1,0.5397316667321777,0.6564,0.5478,liblinear
+,"(1, 2)",english,,l2,0.5599618725679021,0.9686,0.5851,liblinear
+2000.0,"(1, 2)",english,,l1,0.5452345950761893,0.7171,0.5613,liblinear
+1000.0,"(1, 2)",english,,l1,0.5410270822687787,0.6639,0.5481,liblinear
+1000.0,"(1, 2)",english,1.0,l1,0.540703326651206,0.6639,0.5478,liblinear

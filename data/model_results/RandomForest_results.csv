@@ -1,0 +1,4 @@
+cv__max_features,cv__ngram_range,cv__stop_words,rf__ccp_alpha,rf__max_depth,rf__max_features,rf__n_estimators,tf__use_idf,score,train_score,test_score,cv__max_df,cv__min_df
+900,"(1, 2)",english,0.0,5,log2,125,False,0.4932839380003406,0.5187,0.4689,,
+1000,"(1, 2)",english,,5,log2,125,True,0.49004716795723435,0.5308,0.4753,1.0,1.0
+1200,"(1, 2)",english,,7,log2,150,False,0.4991098358293044,0.5706,0.4923,0.5,1.0
